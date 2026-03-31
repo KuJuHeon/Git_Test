@@ -7,5 +7,6 @@ int main()
 
     cout << "hello\n";
 
+    cout << "hard to learn git\n";
     return 0;
 }
